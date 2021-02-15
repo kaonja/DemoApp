@@ -53,13 +53,6 @@ class Voucher extends Component {
         })
 
         this.setState({arrival : newArrival})
-
-
-        
-
-        return ( 
-
-         );
     }
 }
  
